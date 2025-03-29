@@ -1,5 +1,6 @@
 import { getImage } from "@/utilities/functions";
 import NavigationMenuLists from "./MenuItems";
+import { Link } from "react-router-dom";
 // import useTheme from "@/hooks/useTheme";
 
 const Navbar = () => {
@@ -17,12 +18,18 @@ const Navbar = () => {
   // };
   return (
     <div className="navbar navbg bg-abir px-5 lg:px-28 shadow-sm shadow-black py-4">
-      <div className="flex-1">
-        <img
-          alt="IEEE Logo"
-          className="size-12"
-          src={getImage("logo", "logo.png")}
-        />
+      <div className="lg:flex-1 flex">
+        <Link to={"/"}>
+          <img
+            alt="IEEE Logo"
+            className="size-12"
+            src={getImage("logo", "logo.png")}
+          />
+        </Link>
+        <div className="lg:hidden  items-center ml-2">
+          <p className="font-bold">IEEE Student Branch </p>
+          <p className="text-primary">Jagannath University</p>
+        </div>
       </div>
       <div className="hidden lg:block flex-none text-2xl">
         <NavigationMenuLists />

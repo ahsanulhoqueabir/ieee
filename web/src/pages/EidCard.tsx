@@ -10,7 +10,6 @@ export default function EidMubarakWish() {
   const [name, setName] = useState<string>("");
   const [loading, setLoading] = useState(false);
   const { id } = useParams();
-  console.log(id);
   const generateIndex = () => {
     const index = Math.floor(Math.random() * 10) + 1;
     return index;
@@ -18,10 +17,8 @@ export default function EidMubarakWish() {
   useEffect(() => {
     setLoading(true);
     const ind = generateIndex();
-    // let exists = false;
     lists.forEach((item) => {
       if (item.id === id) {
-        // exists = true;
         setName(item.name);
       }
     });
