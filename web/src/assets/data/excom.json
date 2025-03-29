@@ -1,0 +1,536 @@
+{
+  "2025": {
+    "sbc": [
+      {
+        "name": "MD. BAYAZID SARKAR BIJOY",
+        "position": "Chair",
+        "email": "bayazid.sarkar17@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742897402/ieee/ld7i8eljomcol9qh2m4c.jpg"
+      },
+      {
+        "name": "Khairul Islam Robi",
+        "position": "Vice Chair",
+        "email": "robi001.khairul@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742897533/ieee/xeqhyj9wx40syhqmnps8.jpg"
+      },
+      {
+        "name": "Tertho Ghosh",
+        "position": "Treasurer",
+        "email": "terthoghosh1@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742897578/ieee/zaepfknb1xrwuxp9khoc.jpg"
+      },
+      {
+        "name": "Arka Biswas",
+        "position": "Secretary",
+        "email": "akkibiswas064@gmail.com",
+        "image": "https://res.cloudinary.com/ddl7tf4m0/image/upload/v1742227990/ieee/w97t4dqxid1kslygtjhg.jpg"
+      },
+      {
+        "name": "Prithbiraj Sarker",
+        "position": "Program Coordinator",
+        "email": "bishalsarkerdhaka@gmail.com",
+        "image": "https://res.cloudinary.com/ddl7tf4m0/image/upload/v1742228031/ieee/zimpgvjzms3vg2ayxxpo.jpg"
+      },
+      {
+        "name": "Susmita Ghosh",
+        "position": "Graphics Designer",
+        "email": "gsusmita655@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742897676/ieee/is5jaabppsptl0nkwdd7.jpg"
+      },
+      {
+        "name": "MD AHSANUL HOQUE ABIR",
+        "position": "Webmaster",
+        "email": "contact.ahsanul@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Saiman Khan",
+        "position": "Newsletter Editor",
+        "email": "saimankhanjr697@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742897786/ieee/dayv0ouqgnn4dzgk9uvh.jpg"
+      },
+      {
+        "name": "Sumia Akter Srity",
+        "position": "Content Writing Coordinator",
+        "email": "sumiaaktersrity@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742897895/ieee/w6bhpaawgnkkettdtnwn.jpg"
+      },
+      {
+        "name": "Umma Hafsa Kashfi",
+        "position": "Organizing Secretary",
+        "email": "thekashfi71@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742897941/ieee/qti0g2q6lzdwnubvaqm2.jpg"
+      },
+      {
+        "name": "Fabiha Islam",
+        "position": "Publicity Coordinator",
+        "email": "fabihaislam1291@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742898016/ieee/rl0kfo3w2vnd0ax2bt3d.jpg"
+      },
+      {
+        "name": "Tahshin Jannat Apshora",
+        "position": "Social Media Coordinator",
+        "email": "jannatapshora09@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742898252/ieee/elkry6zf74kslldsnor9.jpg"
+      }
+    ],
+    "cssbc": [
+      {
+        "name": "ABU SAEED",
+        "position": "Chair",
+        "email": "b200305002@cse.jnu.ac.bd",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742898419/ieee/m0pdrvvqefxxnsfvwtgj.jpg"
+      },
+      {
+        "name": "Mrinmoy Dewan",
+        "position": "Vice Chair",
+        "email": "",
+        "image": "https://res.cloudinary.com/ddl7tf4m0/image/upload/v1742227848/ieee/wh9fiq0ffxfwtidmyyi7.jpg"
+      },
+      {
+        "name": "Istiaque Ahmed Rhythm",
+        "position": "Treasurer",
+        "email": "istiaqueahmedrhythm@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742898765/ieee/m6xvsza8x6sggtbfk8sm.jpg"
+      },
+      {
+        "name": "Md. Nahidul Islam Nahid",
+        "position": "Secretary",
+        "email": "mdnahidislam451@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742899049/ieee/nuqojzy2ipsuqtlk329d.jpg"
+      },
+      {
+        "name": "Taijul Islam Tanim",
+        "position": "Program Coordinator",
+        "email": "nilniloy2735@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742899090/ieee/hdtd9fcsy8khnfns5chf.jpg"
+      },
+      {
+        "name": "MD. MUSTAKIN",
+        "position": "Graphics Designer",
+        "email": "mustakinrahman598@gmail.com",
+        "image": ""
+      },
+      {
+        "name": "Maruf Khan",
+        "position": "Webmaster",
+        "email": "marufkhan000666@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742899460/ieee/vlwl0v5pbcns4m8cmi2z.jpg"
+      },
+      {
+        "name": "Md. Khushbul Alam",
+        "position": "Newsletter Editor",
+        "email": "khushbulalam10@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742899393/ieee/tgkcaetlso7iezmtonim.jpg"
+      },
+      {
+        "name": "Mst. Mahfuza Akter",
+        "position": "Content Writing Coordinator",
+        "email": "b210305002@cse.jnu.ac.bd",
+        "image": ""
+      },
+      {
+        "name": "Aziz Ullah Tarek",
+        "position": "Organizing Secretary",
+        "email": "azizullaht2002@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742899629/ieee/dectiuppahmzzwphunul.jpg"
+      },
+      {
+        "name": "Mohammad Fatin Nur",
+        "position": "Publicity Coordinator",
+        "email": "mohammadfatinnur2003@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742899658/ieee/njwhgdobcnvo8jmu22or.png"
+      },
+      {
+        "name": "Sheikh Noor Nabil",
+        "position": "Social Media Coordinator",
+        "email": "sheaknoornabil566@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742899779/ieee/rpix6p2xdfaamhacfqsd.jpg"
+      }
+    ],
+    "wiesbc": [
+      {
+        "name": "Kazi Nusrat Sinthia",
+        "position": "Chair",
+        "email": "nusratsinthia11628@gmail.com",
+        "image": "https://res.cloudinary.com/ddl7tf4m0/image/upload/v1742227433/ieee/a1apg40y8vjlroiqa73v.jpg"
+      },
+      {
+        "name": "Fahmida Sweety",
+        "position": "Vice Chair",
+        "email": "fahmidasweety7@gmail.com",
+        "image": "https://res.cloudinary.com/ddl7tf4m0/image/upload/v1742227757/ieee/wxafox7ivpkvvpkjdeom.jpg"
+      },
+      {
+        "name": "Reshma Kakoli",
+        "position": "Treasurer",
+        "email": "b200305027@cse.jnu.ac.bd",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742900278/ieee/w3fvjrdft1smxuiyepct.jpg"
+      },
+      {
+        "name": "Tasbiha Binte Aziz",
+        "position": "Secretary",
+        "email": "aziztalukder1212@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742900315/ieee/nvwbsh40ccuhz8h5eoha.jpg"
+      },
+      {
+        "name": "Maisha Binte Monir",
+        "position": "Program Coordinator",
+        "email": "maisha2379@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742900440/ieee/mqa1hrp1v509nuc9nzy0.jpg"
+      },
+      {
+        "name": "Nafisa Rahman Rupa",
+        "position": "Graphics Designer",
+        "email": "rahmannafisa212023@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742900484/ieee/ms3lvtutxb1r00dzcrqm.jpg"
+      },
+      {
+        "name": "Nafisa Lubna Khan Disha",
+        "position": "Webmaster",
+        "email": "nlkdisha31@gmail.com",
+        "image": "https://res.cloudinary.com/ddl7tf4m0/image/upload/v1742227898/ieee/uimbra7kaafoniyarrrz.jpg"
+      },
+      {
+        "name": "Tasnia Rysa",
+        "position": "Newsletter Editor",
+        "email": "tasniarysa@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742900546/ieee/zqfejaxljlqjncj5htg4.jpg"
+      },
+      {
+        "name": "Shafayet Jamil",
+        "position": "Content Writing Coordinator",
+        "email": "shafayetjamil000@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742900586/ieee/zzzdb8cswcp1paqpjlla.jpg"
+      },
+      {
+        "name": "Tahmida Aziza",
+        "position": "Organizing Secretary",
+        "email": "tahmidaaziza@gmail.com",
+        "image": ""
+      },
+      {
+        "name": "Sabikun Nahar",
+        "position": "Publicity Coordinator",
+        "email": "b200305035@cse.jnu.ac.bd",
+        "image": ""
+      },
+      {
+        "name": "Rup Kumar Sarkar",
+        "position": "Social Media Coordinator",
+        "email": "rup23450@gmail.com",
+        "image": "https://res.cloudinary.com/dgv0tczin/image/upload/v1742919148/ieee/jhoglban8ki3fqjyeelq.jpg"
+      },
+      {
+        "name": "ALFI SHARIN NINAD",
+        "position": "Social Media Coordinator",
+        "email": "alfininad192@gmail.com",
+        "image": ""
+      }
+    ]
+  },
+  "2024": {
+    "sbc": [
+      {
+        "name": "Rakib Hasan",
+        "position": "Chair",
+        "email": "rakib.hasan@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Nayeem Islam",
+        "position": "Vice Chair",
+        "email": "nayeem.islam@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Saif Rahman",
+        "position": "Treasurer",
+        "email": "saif.rahman@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Jubair Ahmed",
+        "position": "Secretary",
+        "email": "jubair.ahmed@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Tawhidul Islam",
+        "position": "Newsletter Editor",
+        "email": "tawhidul.islam@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Sabbir Hossain",
+        "position": "Webmaster",
+        "email": "sabbir.hossain@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Raihan Kabir",
+        "position": "Program Coordinator",
+        "email": "raihan.kabir@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Arif Mahmud",
+        "position": "Graphics Designer",
+        "email": "arif.mahmud@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      }
+    ],
+    "cssbc": [
+      {
+        "name": "MD Ahsanul Haque",
+        "position": "Chair",
+        "email": "contact.ahsanul@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Sumon Khan",
+        "position": "Vice Chair",
+        "email": "sumon.khan@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Arif Hossain",
+        "position": "Treasurer",
+        "email": "arif.hossain@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Bangla Khan",
+        "position": "Secretary",
+        "email": "bangla.khan@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Tanvir Ahmed",
+        "position": "Newsletter Editor",
+        "email": "tanvir.ahmed@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Farhan Islam",
+        "position": "Webmaster",
+        "email": "farhan.islam@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Rafiq Hasan",
+        "position": "Program Coordinator",
+        "email": "rafiq.hasan@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Rafi Sultan",
+        "position": "Graphics Designer",
+        "email": "rafi.sultan@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      }
+    ],
+    "wiesbc": [
+      {
+        "name": "MD Ahsanul Haque",
+        "position": "Chair",
+        "email": "contact.ahsanul@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Sumon Khan",
+        "position": "Vice Chair",
+        "email": "sumon.khan@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Arif Hossain",
+        "position": "Treasurer",
+        "email": "arif.hossain@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Bangla Khan",
+        "position": "Secretary",
+        "email": "bangla.khan@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Tanvir Ahmed",
+        "position": "Newsletter Editor",
+        "email": "tanvir.ahmed@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Farhan Islam",
+        "position": "Webmaster",
+        "email": "farhan.islam@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Rafiq Hasan",
+        "position": "Program Coordinator",
+        "email": "rafiq.hasan@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Rafi Sultan",
+        "position": "Graphics Designer",
+        "email": "rafi.sultan@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      }
+    ]
+  },
+  "2023": {
+    "sbc": [
+      {
+        "name": "Azizur Rahman",
+        "position": "Chair",
+        "email": "azizur.rahman@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Shahriar Hossain",
+        "position": "Vice Chair",
+        "email": "shahriar.hossain@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Mehedi Hasan",
+        "position": "Treasurer",
+        "email": "mehedi.hasan@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Nazmul Alam",
+        "position": "Secretary",
+        "email": "nazmul.alam@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Fahim Ahmed",
+        "position": "Newsletter Editor",
+        "email": "fahim.ahmed@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Shafiqul Islam",
+        "position": "Webmaster",
+        "email": "shafiqul.islam@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Rizwan Karim",
+        "position": "Program Coordinator",
+        "email": "rizwan.karim@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Imran Hossain",
+        "position": "Graphics Designer",
+        "email": "imran.hossain@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      }
+    ],
+    "cssbc": [
+      {
+        "name": "MD Ahsanul Haque",
+        "position": "Chair",
+        "email": "contact.ahsanul@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Sumon Khan",
+        "position": "Vice Chair",
+        "email": "sumon.khan@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Arif Hossain",
+        "position": "Treasurer",
+        "email": "arif.hossain@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Bangla Khan",
+        "position": "Secretary",
+        "email": "bangla.khan@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Tanvir Ahmed",
+        "position": "Newsletter Editor",
+        "email": "tanvir.ahmed@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Farhan Islam",
+        "position": "Webmaster",
+        "email": "farhan.islam@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Rafiq Hasan",
+        "position": "Program Coordinator",
+        "email": "rafiq.hasan@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Rafi Sultan",
+        "position": "Graphics Designer",
+        "email": "rafi.sultan@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      }
+    ],
+    "wiesbc": [
+      {
+        "name": "MD Ahsanul Haque",
+        "position": "Chair",
+        "email": "contact.ahsanul@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Sumon Khan",
+        "position": "Vice Chair",
+        "email": "sumon.khan@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Arif Hossain",
+        "position": "Treasurer",
+        "email": "arif.hossain@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Bangla Khan",
+        "position": "Secretary",
+        "email": "bangla.khan@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Tanvir Ahmed",
+        "position": "Newsletter Editor",
+        "email": "tanvir.ahmed@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Farhan Islam",
+        "position": "Webmaster",
+        "email": "farhan.islam@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Rafiq Hasan",
+        "position": "Program Coordinator",
+        "email": "rafiq.hasan@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      },
+      {
+        "name": "Rafi Sultan",
+        "position": "Graphics Designer",
+        "email": "rafi.sultan@gmail.com",
+        "image": "https://res.cloudinary.com/dgjowoblc/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1731582274/vcvmqlhvdswvp2mveqal.jpg"
+      }
+    ]
+  }
+}

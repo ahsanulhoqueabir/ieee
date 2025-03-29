@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Access to Latest Research",
+    "description": "Get discounts to conferences and tap into mentorship programs, career development webinars, and more.",
+    "icon": "FaSwatchbook",
+    "lib": "fa"
+  },
+  {
+    "title": "Networking With Your Peers",
+    "description": "Connect with other professionals in your field and share your experiences and knowledge.",
+    "icon": "FaUsers",
+    "lib": "fa"
+  },
+  {
+    "title": "Save $350 on Publishing Papers",
+    "description": "Get discounts on publishing your research in our journals.",
+    "icon": "FaDollarSign",
+    "lib": "fa"
+  },
+  {
+    "title": "IEEE Computer Society Digital Library",
+    "description": "Access to the IEEE Computer Society Digital Library, which includes 30+ years of research.",
+    "icon": "FaLandmark",
+    "lib": "fa"
+  },
+  {
+    "title": "ComputingEdge",
+    "description": "Get the latest news and information on computing technology and trends.",
+    "icon": "FaCode",
+    "lib": "fa6"
+  },
+  {
+    "title": "Professional development",
+    "description": "Access to the latest research, discounts to conferences, and more.",
+    "icon": "FaRocket",
+    "lib": "fa"
+  }
+]
