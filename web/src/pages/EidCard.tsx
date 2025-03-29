@@ -1,9 +1,36 @@
 import { motion } from "framer-motion";
+import { useEffect, useState } from "react";
+import wishes from "../assets/data/wishes.json";
+import lists from "../assets/data/lists.json";
+import LoadingPage from "./LoadingPage";
+import { useParams } from "react-router-dom";
 
 export default function EidMubarakWish() {
-  //   const { name, message } = router.query;
-  const name = "Ahsanul Hoque";
-
+  const [msg, setMsg] = useState<string[]>([]);
+  const [name, setName] = useState<string>("");
+  const [loading, setLoading] = useState(false);
+  const { id } = useParams();
+  console.log(id);
+  const generateIndex = () => {
+    const index = Math.floor(Math.random() * 10) + 1;
+    return index;
+  };
+  useEffect(() => {
+    setLoading(true);
+    const ind = generateIndex();
+    // let exists = false;
+    lists.forEach((item) => {
+      if (item.id === id) {
+        // exists = true;
+        setName(item.name);
+      }
+    });
+    setMsg(wishes[ind]);
+    setLoading(false);
+  }, [msg, id]);
+  if (loading || typeof msg === "undefined") {
+    return <LoadingPage />;
+  }
   return (
     <div className="eidbg py-16 flex flex-col items-center justify-center min-h-screen bg-green-100 p-4 text-center relative">
       {/* Animated Eid Elements */}
@@ -130,24 +157,21 @@ export default function EidMubarakWish() {
         <div className="relative z-10 text-left font-handwritten ">
           <div className="flex gap-4 text-3xl text-left font-handwritten">
             <h2>Dear </h2>
-            <h2 className=" text-green-700 mb-2">{name || "Dear Friend"}</h2>
+            <h2 className=" text-green-700 mb-2">{name || id}</h2>
           </div>
           <div>
             <h2 style={{ color: "#2c7a7b" }}>🌙✨ Eid Mubarak! ✨🌙</h2>
             <br />
             <p style={{ color: "#333", fontSize: "16px", lineHeight: "1.6" }}>
-              On this blessed occasion of Eid, may your heart be filled with
-              joy, your home with laughter, and your life with endless
-              blessings. Eid is a time of reflection, gratitude, and
-              togetherness—a moment to cherish the bonds of love and friendship.
-              May your prayers be answered, your good deeds be accepted, and
-              your soul be filled with peace.
+              {msg.length > 0
+                ? msg[0]
+                : "May this Eid bring you closer to your loved ones and fill your heart with joy. May your prayers be answered, and may you find peace and happiness in every moment."}
             </p>
+            <br />
             <p style={{ color: "#333", fontSize: "16px", lineHeight: "1.6" }}>
-              As we celebrate with our loved ones, let's also remember those in
-              need and share kindness wherever we go. May Allah shower you with
-              success, good health, and happiness in abundance. Let this Eid
-              bring new hope, prosperity, and countless reasons to smile.
+              {msg.length > 0
+                ? msg[1]
+                : "May the blessings of Eid fill your life with happiness and joy. Wishing you a day filled with love, laughter, and cherished moments."}
             </p>
             <br />
             <h3 style={{ color: "#2c7a7b" }}>
