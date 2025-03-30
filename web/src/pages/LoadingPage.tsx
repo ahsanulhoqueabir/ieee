@@ -1,5 +1,5 @@
 import Lottie from "lottie-react";
-import err from "../assets/animation/loader.json";
+import err from "../assets/animation/periodic-loader.json";
 
 const LoadingPage = () => {
   return (

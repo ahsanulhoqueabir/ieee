@@ -2,6 +2,7 @@ import { motion } from "framer-motion";
 import { useEffect, useState } from "react";
 import wishes from "../assets/data/wishes.json";
 import lists from "../assets/data/lists.json";
+import fawishes from "../assets/data/facwishes.json";
 import LoadingPage from "./LoadingPage";
 import { useParams } from "react-router-dom";
 
@@ -22,8 +23,12 @@ export default function EidMubarakWish() {
         setName(item.name);
       }
     });
-    setMsg(wishes[ind]);
-    setLoading(false);
+    if (id && id[0] === "f") {
+      setMsg(fawishes[ind]);
+    } else {
+      setMsg(wishes[ind]);
+    }
+    // setLoading(false);
   }, [msg, id]);
   if (loading || typeof msg === "undefined") {
     return <LoadingPage />;
