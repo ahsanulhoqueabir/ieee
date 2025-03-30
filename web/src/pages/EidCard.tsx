@@ -28,7 +28,7 @@ export default function EidMubarakWish() {
     } else {
       setMsg(wishes[ind]);
     }
-    // setLoading(false);
+    setLoading(false);
   }, [msg, id]);
   if (loading || typeof msg === "undefined") {
     return <LoadingPage />;
