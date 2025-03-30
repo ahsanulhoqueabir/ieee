@@ -16,6 +16,7 @@ export default function EidMubarakWish() {
     return index;
   };
   useEffect(() => {
+    document.title = "Eid Mubarak";
     setLoading(true);
     const ind = generateIndex();
     lists.forEach((item) => {
